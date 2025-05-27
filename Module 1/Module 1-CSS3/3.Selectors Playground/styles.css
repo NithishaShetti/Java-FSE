@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h2 {
+  font-size: 24px;
+  color: #333;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+#mainHeader {
+  background-color: #007BFF;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+}
